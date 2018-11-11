@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Today in History</string>
+    <string name="button_refresh">Refresh</string>
+    <string name="text_loading">loading</string>
+</resources>
